@@ -1,0 +1,9 @@
+*.pyc
+*.sublime-project
+*.sublime-workspace
+TODO*
+csv/
+data/
+*.egg-info
+*.png
+imgs/
